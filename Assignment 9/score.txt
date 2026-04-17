@@ -1,4 +1,0 @@
-Trung, 80
-Thang, 85
-Phong, 75
-Bach, 65
